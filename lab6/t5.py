@@ -6,4 +6,5 @@ for a in a_arr:
     if len(a) > 1 and a.startswith(c) and a.endswith(c):
         count += 1
 
+print(f"A array: {a_arr}")
 print(f"Count of matching A's: {count}")
