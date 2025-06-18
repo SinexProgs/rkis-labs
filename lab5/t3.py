@@ -1,5 +1,6 @@
 import random
 
+
 length = int(input("Enter length of an array: "))
 arr = []
 prev_num = 0
